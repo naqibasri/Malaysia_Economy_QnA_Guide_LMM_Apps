@@ -2,7 +2,8 @@ langchain
 langchain-cohere
 google-generativeai
 python-dotenv
-PyPDF2
+PyPDF
 chromadb
 faiss-cpu
 streamlit
+langchain_google_genai
