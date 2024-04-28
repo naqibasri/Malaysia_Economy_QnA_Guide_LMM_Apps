@@ -8,3 +8,4 @@ faiss-cpu
 streamlit
 langchain_google_genai
 wikipedia
+langchainhub
